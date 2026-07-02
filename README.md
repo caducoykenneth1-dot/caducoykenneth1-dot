@@ -2,7 +2,7 @@
 
 <img src="YOUR_BANNER_URL" width="100%" />
 
-# 👋 Hi, I'm Kenneth
+# Kenneth Daron Caducoy
 
 ### Full Stack Web Developer
 
@@ -22,11 +22,11 @@ I enjoy creating scalable applications using React, TypeScript, Symfony, and Sup
 
 Currently focusing on:
 
-- ⚡ Full Stack Development
-- 🚀 Next.js
-- 🐘 Symfony
-- ☁️ Supabase
-- 🎨 Tailwind CSS
+-  Full Stack Development
+-  Next.js
+-  Symfony
+-  Supabase
+-  Tailwind CSS
 
 ---
 
