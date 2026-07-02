@@ -1,0 +1,29 @@
+<svg width="720" height="100" viewBox="0 0 720 100" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Tech stack">
+<rect width="720" height="100" fill="#0d1117"/>
+<rect x="10" y="20" width="55.0" height="24" fill="none" stroke="#21262d" stroke-width="1.5"/>
+<text x="37.5" y="36.0" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="11" letter-spacing="1" fill="#58a6ff">REACT</text>
+<rect x="75.0" y="20" width="69.0" height="24" fill="none" stroke="#21262d" stroke-width="1.5"/>
+<text x="109.5" y="36.0" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="11" letter-spacing="1" fill="#58a6ff">NEXT.JS</text>
+<rect x="154.0" y="20" width="90.0" height="24" fill="none" stroke="#21262d" stroke-width="1.5"/>
+<text x="199.0" y="36.0" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="11" letter-spacing="1" fill="#58a6ff">TYPESCRIPT</text>
+<rect x="254.0" y="20" width="76.0" height="24" fill="none" stroke="#21262d" stroke-width="1.5"/>
+<text x="292.0" y="36.0" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="11" letter-spacing="1" fill="#58a6ff">TAILWIND</text>
+<rect x="340.0" y="20" width="69.0" height="24" fill="none" stroke="#21262d" stroke-width="1.5"/>
+<text x="374.5" y="36.0" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="11" letter-spacing="1" fill="#58a6ff">SYMFONY</text>
+<rect x="419.0" y="20" width="41.0" height="24" fill="none" stroke="#21262d" stroke-width="1.5"/>
+<text x="439.5" y="36.0" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="11" letter-spacing="1" fill="#58a6ff">PHP</text>
+<rect x="470.0" y="20" width="76.0" height="24" fill="none" stroke="#21262d" stroke-width="1.5"/>
+<text x="508.0" y="36.0" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="11" letter-spacing="1" fill="#58a6ff">SUPABASE</text>
+<rect x="556.0" y="20" width="90.0" height="24" fill="none" stroke="#21262d" stroke-width="1.5"/>
+<text x="601.0" y="36.0" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="11" letter-spacing="1" fill="#58a6ff">POSTGRESQL</text>
+<rect x="10" y="56" width="62.0" height="24" fill="none" stroke="#21262d" stroke-width="1.5"/>
+<text x="41.0" y="72.0" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="11" letter-spacing="1" fill="#58a6ff">DOCKER</text>
+<rect x="82.0" y="56" width="41.0" height="24" fill="none" stroke="#21262d" stroke-width="1.5"/>
+<text x="102.5" y="72.0" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="11" letter-spacing="1" fill="#58a6ff">GIT</text>
+<rect x="133.0" y="56" width="62.0" height="24" fill="none" stroke="#21262d" stroke-width="1.5"/>
+<text x="164.0" y="72.0" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="11" letter-spacing="1" fill="#58a6ff">GITHUB</text>
+<rect x="205.0" y="56" width="62.0" height="24" fill="none" stroke="#21262d" stroke-width="1.5"/>
+<text x="236.0" y="72.0" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="11" letter-spacing="1" fill="#58a6ff">VERCEL</text>
+<rect x="277.0" y="56" width="69.0" height="24" fill="none" stroke="#21262d" stroke-width="1.5"/>
+<text x="311.5" y="72.0" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="11" letter-spacing="1" fill="#58a6ff">VS CODE</text>
+</svg>
