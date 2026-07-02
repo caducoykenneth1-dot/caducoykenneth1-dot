@@ -1,88 +1,90 @@
 <div align="center">
 
-<img src="YOUR_BANNER_URL" width="100%" />
+<img src="./assets/banner.svg" width="100%" />
 
-# Kenneth Daron Caducoy
+<br/>
 
-### Full Stack Web Developer
+# Kenneth D. Caducoy
 
-📍 Dumaguete City, Negros Oriental, Philippines
+**Full Stack Developer**
 
-<img src="https://komarev.com/ghpvc/?username=caducoykenneth1-dot&label=Profile+Views&color=0e75b6&style=flat" />
+Building modern, scalable web experiences.
+
+Dumaguete City, Negros Oriental, Philippines
+
+<img src="https://komarev.com/ghpvc/?username=caducoykenneth1-dot&style=flat-square&color=blue"/>
 
 </div>
 
 ---
 
-## About Me
+## About
 
-I'm a Computer Science student passionate about building modern web applications.
+I'm a Computer Science student passionate about building fast, scalable and beautiful web applications.
 
-I enjoy creating scalable applications using React, TypeScript, Symfony, and Supabase while continuously exploring new technologies.
+Currently focused on creating modern user experiences with React, Next.js, Symfony and Supabase while continuously learning new technologies.
 
-Currently focusing on:
-
--  Full Stack Development
--  Next.js
--  Symfony
--  Supabase
--  Tailwind CSS
-
----
-
-## Tech Stack
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-
-### Backend
-
-![Symfony](https://img.shields.io/badge/Symfony-black?style=for-the-badge&logo=symfony)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+```ts
+const kenneth = {
+  role: "Full Stack Developer",
+  learning: ["Next.js", "System Design", "Cloud"],
+  passions: [
+    "Web Development",
+    "Open Source",
+    "UI Engineering"
+  ]
+}
+```
 
 ---
 
-## Featured Projects
+## Tech
 
-### 🛒 Sibulan Market Pay
+<p>
 
-Offline-first payment collection platform built with React, TypeScript, Supabase, PostgreSQL, and Vercel.
-
----
-
-### 🚗 Car Rental Management System
-
-Full-featured rental platform built with Symfony, Doctrine ORM, Twig, Docker, and PostgreSQL.
-
----
-
-## GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=caducoykenneth1-dot&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caducoykenneth1-dot&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,symfony,php,supabase,postgres,docker,git,github,vercel,vscode" />
 
 </p>
 
 ---
 
-## Connect with Me
+## Featured Projects
 
-📧 caducoykenneth1@gmail.com
+### Sibulan Market Pay
 
-🌐 https://github.com/caducoykenneth1-dot
+Offline-first payment collection platform powered by React, TypeScript and Supabase.
+
+### Car Rental Management System
+
+Enterprise-style rental management system built with Symfony, Doctrine ORM and PostgreSQL.
+
+---
+
+## GitHub
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=caducoykenneth1-dot&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caducoykenneth1-dot&layout=compact&theme=transparent&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="98%" src="https://streak-stats.demolab.com?user=caducoykenneth1-dot&theme=transparent&hide_border=true"/>
+
+</p>
+
+---
+
+## Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=caducoykenneth1-dot&theme=github-compact&hide_border=true"/>
+
+---
+
+## Connect
+
+- GitHub — https://github.com/caducoykenneth1-dot
+- Email — caducoykenneth1@gmail.com
