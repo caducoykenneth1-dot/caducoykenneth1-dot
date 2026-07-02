@@ -1,16 +1,19 @@
-## Hi there 👋
+<p align="center">
+  <!-- 1. Header Banner Image -->
+  <img src="YOUR_BANNER_IMAGE_URL_HERE" alt="Header Banner" width="100%">
+  
+  <br><br>
 
-<!--
-**caducoykenneth1-dot/caducoykenneth1-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- 2. Profile Views Counter -->
+  <img src="https://komarev.com/ghvc/?username=YOUR_GITHUB_USERNAME&color=orange&style=flat-square" alt="Profile Views" />
 
-Here are some ideas to get you started:
+  <br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- 3. Your Minimal Web Dev Tagline -->
+  <strong style="font-size: 24px; color: #ff9900;">Web Developer</strong>
+  
+  <br><br>
+
+  <!-- 4. Location -->
+  <sub>Dumaguete City, Negros Oriental, Philippines</sub>
+</p>
