@@ -5,7 +5,7 @@
 <br/>
 
 <p>
-  <strong>Full Stack Developer</strong> • React • Next.js • Symfony • Supabase
+  <strong>Full Stack Developer</strong> &nbsp;•&nbsp; React &nbsp;•&nbsp; Next.js &nbsp;•&nbsp; Symfony &nbsp;•&nbsp; Supabase
 </p>
 
 <p>
@@ -16,7 +16,7 @@
   Dumaguete City, Philippines
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=caducoykenneth1-dot&style=flat-square&color=blue" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=caducoykenneth1-dot&style=flat-square&color=58a6ff&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
@@ -29,24 +29,7 @@ I'm a Full Stack Developer focused on crafting fast, scalable, and beautiful web
 I enjoy turning product ideas into reliable digital experiences with React, Next.js, Symfony, and Supabase, blending clean architecture, performance, and thoughtful UI.
 
 <div align="center">
-  <svg width="100%" height="120" viewBox="0 0 720 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Animated focus card">
-    <defs>
-      <linearGradient id="focusGlow" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.95"/>
-        <stop offset="50%" stop-color="#fb923c" stop-opacity="0.95"/>
-        <stop offset="100%" stop-color="#38bdf8" stop-opacity="0.95"/>
-      </linearGradient>
-    </defs>
-    <rect x="6" y="6" width="708" height="108" rx="18" fill="#0b1220" stroke="#1f2937"/>
-    <text x="28" y="42" fill="#f8fafc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="19" font-weight="700">Currently building</text>
-    <text x="28" y="72" fill="#cbd5e1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">Modern products with calm interfaces, strong foundations, and a fast feel.</text>
-    <path d="M28 96 C 120 84, 190 84, 260 96 S 420 108, 510 96 S 630 74, 690 84" stroke="url(#focusGlow)" stroke-width="3" fill="none" stroke-linecap="round">
-      <animate attributeName="stroke-dasharray" values="0 1000; 500 500; 0 1000" dur="7s" repeatCount="indefinite"/>
-    </path>
-    <circle cx="660" cy="84" r="8" fill="#38bdf8">
-      <animate attributeName="r" values="7;10;7" dur="2.4s" repeatCount="indefinite"/>
-    </circle>
-  </svg>
+  <img src="./assets/focus-card.svg" width="100%" alt="Currently building" />
 </div>
 
 ```ts
@@ -62,9 +45,7 @@ const kenneth = {
 ## Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,symfony,php,supabase,postgres,docker,git,github,vercel,vscode" alt="Tech stack icons" />
-
+  <img src="./assets/tech-badges.svg" width="100%" alt="Tech stack" />
 </p>
 
 ---
@@ -73,22 +54,22 @@ const kenneth = {
 
 | Project | Focus |
 | --- | --- |
-| 🌐 Sibulan Market Pay | Offline-first payment collection platform built with React, TypeScript, and Supabase. |
-| 🛠️ Car Rental Management System | Enterprise-style rental management platform built with Symfony, Doctrine ORM, and PostgreSQL. |
+| Sibulan Market Pay | Offline-first payment collection platform built with React, TypeScript, and Supabase. |
+| Car Rental Management System | Enterprise-style rental management platform built with Symfony, Doctrine ORM, and PostgreSQL. |
 
 ---
 
 ## GitHub Highlights
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Projects-2+-blue?style=for-the-badge&logo=github" alt="Projects count" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Developer-ffffff?style=for-the-badge" alt="Focus badge" />
-  <img src="https://img.shields.io/badge/Stack-React%20%7C%20Next.js%20%7C%20Symfony-38bdf8?style=for-the-badge" alt="Tech stack badge" />
+  <img src="https://img.shields.io/badge/PROJECTS-2%2B-58a6ff?style=flat-square&labelColor=0d1117" alt="Projects count" />
+  <img src="https://img.shields.io/badge/FOCUS-FULL%20STACK%20DEVELOPER-58a6ff?style=flat-square&labelColor=0d1117" alt="Focus badge" />
+  <img src="https://img.shields.io/badge/STACK-REACT%20%7C%20NEXT.JS%20%7C%20SYMFONY-58a6ff?style=flat-square&labelColor=0d1117" alt="Tech stack badge" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Currently%20Learning-Next.js%2015-1d4ed8?style=flat-square" alt="Currently learning badge" />
-  <img src="https://img.shields.io/badge/Location-Dumaguete%20City-0f172a?style=flat-square" alt="Location badge" />
+  <img src="https://img.shields.io/badge/LEARNING-NEXT.JS%2015-58a6ff?style=flat-square&labelColor=0d1117" alt="Currently learning badge" />
+  <img src="https://img.shields.io/badge/LOCATION-DUMAGUETE%20CITY-58a6ff?style=flat-square&labelColor=0d1117" alt="Location badge" />
 </p>
 
 <p align="center">
@@ -99,16 +80,16 @@ const kenneth = {
 
 ## Current Focus
 
-- ⚡ Shipping thoughtful UI systems
-- 🧠 Exploring scalable architecture patterns
-- 🌱 Learning deeper product-driven development
-- 🚀 Building with performance and clarity in mind
+- Shipping thoughtful UI systems
+- Exploring scalable architecture patterns
+- Learning deeper product-driven development
+- Building with performance and clarity in mind
 
 ---
 
 ## Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=caducoykenneth1-dot&theme=github-compact&hide_border=true" alt="GitHub activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=caducoykenneth1-dot&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=false&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub activity graph" />
 
 ---
 
