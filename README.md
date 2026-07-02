@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" />
+<img src="./assets/banner.svg" width="100%" alt="Kenneth D. Caducoy banner" />
 
 <br/>
 
@@ -8,11 +8,11 @@
 
 **Full Stack Developer**
 
-Building modern, scalable web experiences.
+Building polished, scalable web experiences with thoughtful architecture and modern UI.
 
-Dumaguete City, Negros Oriental, Philippines
+Based in Dumaguete City, Negros Oriental, Philippines
 
-<img src="https://komarev.com/ghpvc/?username=caducoykenneth1-dot&style=flat-square&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=caducoykenneth1-dot&style=flat-square&color=blue" alt="Profile views" />
 
 </div>
 
@@ -20,29 +20,25 @@ Dumaguete City, Negros Oriental, Philippines
 
 ## About
 
-I'm a Computer Science student passionate about building fast, scalable and beautiful web applications.
+I'm a Full Stack Developer focused on crafting fast, scalable, and beautiful web applications.
 
-Currently focused on creating modern user experiences with React, Next.js, Symfony and Supabase while continuously learning new technologies.
+I enjoy turning product ideas into reliable digital experiences using React, Next.js, Symfony, and Supabase, with an emphasis on clean architecture, performance, and thoughtful UI.
 
 ```ts
 const kenneth = {
   role: "Full Stack Developer",
-  learning: ["Next.js", "System Design", "Cloud"],
-  passions: [
-    "Web Development",
-    "Open Source",
-    "UI Engineering"
-  ]
+  focus: ["Modern Web Apps", "UI Engineering", "Scalable Systems"],
+  tools: ["React", "Next.js", "Symfony", "Supabase"]
 }
 ```
 
 ---
 
-## Tech
+## Tech Stack
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,symfony,php,supabase,postgres,docker,git,github,vercel,vscode" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,symfony,php,supabase,postgres,docker,git,github,vercel,vscode" alt="Tech stack icons" />
 
 </p>
 
@@ -52,27 +48,27 @@ const kenneth = {
 
 ### Sibulan Market Pay
 
-Offline-first payment collection platform powered by React, TypeScript and Supabase.
+Offline-first payment collection platform built with React, TypeScript, and Supabase.
 
 ### Car Rental Management System
 
-Enterprise-style rental management system built with Symfony, Doctrine ORM and PostgreSQL.
+Enterprise-style rental management platform built with Symfony, Doctrine ORM, and PostgreSQL.
 
 ---
 
-## GitHub
+## GitHub Highlights
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=caducoykenneth1-dot&show_icons=true&theme=transparent&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=caducoykenneth1-dot&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caducoykenneth1-dot&layout=compact&theme=transparent&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caducoykenneth1-dot&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
 
 </p>
 
 <p align="center">
 
-<img width="98%" src="https://streak-stats.demolab.com?user=caducoykenneth1-dot&theme=transparent&hide_border=true"/>
+<img width="98%" src="https://streak-stats.demolab.com?user=caducoykenneth1-dot&theme=transparent&hide_border=true" alt="GitHub streak" />
 
 </p>
 
@@ -80,7 +76,7 @@ Enterprise-style rental management system built with Symfony, Doctrine ORM and P
 
 ## Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=caducoykenneth1-dot&theme=github-compact&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=caducoykenneth1-dot&theme=github-compact&hide_border=true" alt="GitHub activity graph" />
 
 ---
 
