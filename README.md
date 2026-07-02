@@ -81,17 +81,18 @@ const kenneth = {
 ## GitHub Highlights
 
 <p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=caducoykenneth1-dot&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caducoykenneth1-dot&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
-
+  <img src="https://img.shields.io/badge/Projects-2+-blue?style=for-the-badge&logo=github" alt="Projects count" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Developer-ffffff?style=for-the-badge" alt="Focus badge" />
+  <img src="https://img.shields.io/badge/Stack-React%20%7C%20Next.js%20%7C%20Symfony-38bdf8?style=for-the-badge" alt="Tech stack badge" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Currently%20Learning-Next.js%2015-1d4ed8?style=flat-square" alt="Currently learning badge" />
+  <img src="https://img.shields.io/badge/Location-Dumaguete%20City-0f172a?style=flat-square" alt="Location badge" />
+</p>
 
-<img width="98%" src="https://streak-stats.demolab.com?user=caducoykenneth1-dot&theme=transparent&hide_border=true" alt="GitHub streak" />
-
+<p align="center">
+  <strong>Building thoughtful products, one commit at a time.</strong>
 </p>
 
 ---
